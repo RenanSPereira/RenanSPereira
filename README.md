@@ -1,4 +1,12 @@
-### Hi there 👋
+### Seja Bem Vindo 👋
+
+Sou o Renan Dos Santos Pereira, moro no Rio de Janeiro.
+
+Sou formado em Sistema da Informação (2020) pela Estácio de Sá.
+
+Sou programador de sistemas.
+
+Adoro novos desafios.
 
 <!--
 **RenanSPereira/RenanSPereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
